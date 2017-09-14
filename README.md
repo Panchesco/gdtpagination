@@ -2,8 +2,6 @@
 
 Render ExpressionEngine pagination links for any set of results you can count.
 
-**
-
 ## Installation
 
 1. Place the gdtpagination folder in the /system/user/addons.
@@ -32,7 +30,7 @@ Wrap EE's native [pagination tags](https://docs.expressionengine.com/latest/temp
 #### Example Usage
 Let's say we need to create a paginated list of files in a document library at the URL http://example.com/doc-library/files.
 
-We're using the Assets module to manage our files. Assets doesn't currently have built-in pagination, but it will give us the information we need to pass to our pagination plugin to create pagination links.
+We're using the [Assets](https://eeharbor.com/assets/documentation) module to manage our files. Assets doesn't currently have built-in pagination, but it will give us the information we need to pass to our pagination plugin to create pagination links.
 
 First, we'll display our list of files in our doc-library/files template:
 

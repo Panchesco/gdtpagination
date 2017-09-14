@@ -25,10 +25,10 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
  * Gdtpagination Class
  *
  * @package     ExpressionEngine
- * @category		Plugin
- * @author		  Richard Whitmer <richard@panchesco.com>
- * @copyright		Copyright (c) YYYY
- * @link			  https://github.com/panchesco/gdtpagination
+ * @category	Plugin
+ * @author	Richard Whitmer <richard@panchesco.com>
+ * @copyright	Copyright (c) YYYY
+ * @link	https://github.com/panchesco/gdtpagination
  */
 
 class Gdtpagination {
